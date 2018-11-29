@@ -1,5 +1,5 @@
  {TRIANGLE TRACKER}
-#### {it enables the user to enter three triangle values and when you click the OK button the application feedbacks if the triangle is an isoceles, equilteral or a scalene. }, {29/11/2018}
+#### {it enables the user to enter three triangle values and when you click the OK button the application feedbacks if the triangle is an isoceles, equilateral, scalene or if its not a traingle. }, {29/11/2018}
 #### By **{RYAN MUUO}**
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
