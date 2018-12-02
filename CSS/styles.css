@@ -2,15 +2,25 @@ h1{
   text-align: center;
   color: indigo;
   font-size: : 1000px;
-
 }
 p{
   text-align: center;
+  color: green;
   font-family: sans-serif;
-  font-size: 20px;
 }
-.textbox{
-  border: 40px;
-  padding: 30px;
-  margin: 20px;
+body{
+  background: tan;
+
+}
+#A{
+float: right;
+}
+#B{
+
+}
+#C{
+
+}
+.text-box{
+  float: right;
 }
