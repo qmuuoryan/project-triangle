@@ -2,18 +2,18 @@
 #### {it enables the user to enter three triangle values and when you click the OK button the application feedbacks if the triangle is an isoceles, equilateral, scalene or if its not a traingle. }, {29/11/2018}
 #### By **{RYAN MUUO}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{Three text boxes appear where by you enter your values and when you click submit an alert button appears and tells you whether the the triangle values are equilateral,isoceles,scalene or not a triangle  }
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
+* atom
+* google chrome
+* a functioning computer
+* access to the internet
 * format
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+{No known bugs,but if you come across any contact via ryanmuuo91@gmail.com}
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+{I used HTML,javascript and CSS languages}
 ## Support and contact details
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
