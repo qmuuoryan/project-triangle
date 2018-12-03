@@ -1,8 +1,8 @@
 
 function triangle(){
-var A = parseInt(prompt("input sideA:"));
-var B = parseInt(prompt("input sideB:"));
-var C = parseInt(prompt("input sideC:"));
+var A = parseInt(document.getElementById("input sideA:"));
+var B = parseInt(document.getElementById("input sideB:"));
+var C = parseInt(document.getElementById("input sideC:"));
 
 if(A===B && A===C && B===C){
   alert("equilateral");
