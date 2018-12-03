@@ -10,8 +10,6 @@ p{
 }
 body{
   background: tan;
-  background-image:url image("triangle.jpg");
-
 }
 input[type=submit]{
   background-color: #4CAF50;
