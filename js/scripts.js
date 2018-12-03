@@ -1,17 +1,16 @@
 
 function triangle(){
-var A = parseInt(document.getElementById("input sideA:"));
-var B = parseInt(document.getElementById("input sideB:"));
-var C = parseInt(document.getElementById("input sideC:"));
+var a = parseInt(document.getElementById("side1").value);
+var b = parseInt(document.getElementById("side2").value);
+var c = parseInt(document.getElementById("side3").value);
 
-if(A===B && A===C && B===C){
+if(a===c && a===b && b===c){
   alert("equilateral");
-}else if(A===B || A===C || B===C) {
+}else if(a==b || a==c || b==c) {
   alert("isoceles");
-}else if((A+B)>=C && (B+C)>=A || (A+C)>=B) {
+}else if((a+b)>=c && (b+c)>=a || (a+c)>=b) {
   alert("Scalene");
-}else if((A+B)<= C || (A+C)<=B || (B+C)<=A) {
+}else {
   alert("Not A Triangle");
 }
 }
-triangle();

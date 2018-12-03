@@ -19,14 +19,14 @@ input[type=submit]{
 }
 .container{
   padding: 80px;
-  background-color: #f1f1f1;
+  background-color: grey;
 }
 input{
-  width: 990px;
-  border: 2px solid blue;
+  width: 800px;
+  border: 2px solid green;
   padding: 14px;
   border-radius: 2px;
-  box-sizing: content-box;
+  box-sizing: border-box;
   margin-top: 4px;
   margin-bottom: 18px;
 }
