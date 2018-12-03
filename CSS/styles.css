@@ -10,11 +10,12 @@ p{
 }
 body{
   background: tan;
+  background-image: src
 }
-input[type=submit]{
+.button{
   background-color: #4CAF50;
-  color: black;
-  float: left;
+  text-align: center;
+  color: green;
   width: 30px;
 }
 .container{
