@@ -10,17 +10,25 @@ p{
 }
 body{
   background: tan;
+  background-image:url image("triangle.jpg");
 
 }
-#A{
-float: right;
+input[type=submit]{
+  background-color: #4CAF50;
+  color: black;
+  float: left;
+  width: 30px;
 }
-#B{
-
+.container{
+  padding: 80px;
+  background-color: #f1f1f1;
 }
-#C{
-
-}
-.text-box{
-  float: right;
+input{
+  width: 990px;
+  border: 2px solid blue;
+  padding: 14px;
+  border-radius: 2px;
+  box-sizing: content-box;
+  margin-top: 4px;
+  margin-bottom: 18px;
 }
