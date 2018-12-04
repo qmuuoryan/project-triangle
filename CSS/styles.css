@@ -1,33 +1,35 @@
-h1{
+h1 {
   text-align: center;
-  color: indigo;
+  color: black;
   font-size: : 1000px;
 }
-p{
+
+p {
   text-align: center;
   color: green;
   font-family: sans-serif;
 }
-body{
-  background: tan;
+
+body {
+  background-image: url(images/angle.jpg);
 }
-.button{
-  background-color: #4CAF50;
-  text-align: center;
-  color: green;
-  width: 30px;
+
+.button {
+  background-color: yellow;
+  width: 50px;
 }
-.container{
+
+.container {
   padding: 80px;
-  background-color: grey;
-  
+  background-color: ;
+  border: 2px solid red;
+  border-radius: 90px;
 }
-input{
-  width: 800px;
+ input{
+  width: 300px;
   border: 2px solid green;
   padding: 14px;
-  border-radius: 2px;
-  box-sizing: border-box;
+  border-radius: 20px;
   margin-top: 4px;
   margin-bottom: 18px;
 }

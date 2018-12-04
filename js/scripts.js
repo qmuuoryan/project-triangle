@@ -8,9 +8,9 @@ if(a===c && a===b && b===c){
   alert("equilateral");
 }else if(a==b || a==c || b==c) {
   alert("isoceles");
-}else if((a+b)>=c && (b+c)>=a || (a+c)>=b) {
+}else if((a+b)>=c && (b+c)>=a || (a+c)>=b)  {
   alert("Scalene");
-}else if((a+b)<= c || (a+c)<=b || (b+c)<=a){
+}else if((a+b)<=c || (a+c)<=b || (b+c)<=a) {
   alert("Not A Triangle");
 }
 }
