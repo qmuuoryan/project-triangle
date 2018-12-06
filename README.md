@@ -9,7 +9,7 @@
 * a functioning computer
 * access to the internet
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
-##BDD
+##BEHAVIOUR DRIVEN DEVELOPMENT
 * The application enables the user to enter values of a triangle then alerts what type of triangle it is.
 * After the user keys in the values and presses OK!, an alert dialogue box pops up and tells the user what triangle matches the entered values.
 * When you click the "ok" button in the alert dialogue box you can reset your app so that you may re enter your values again and so on.
